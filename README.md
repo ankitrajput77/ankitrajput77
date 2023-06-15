@@ -20,7 +20,7 @@ and many more gaining...
 
 ## 📫 How to Reach Me
 
-- Email: [Ankit Rajput](rajputankit72106@gmail.com)
+- Email: rajputankit72106@gmail.com
 - LinkedIn: ([Ankit Rajput LinkedIn](https://www.linkedin.com/in/ankit-rajput892/))
 - kaggle: ([Ankit Rajput Kaggle](https://www.kaggle.com/ankitrajput77))
 
