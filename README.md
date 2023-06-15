@@ -2,6 +2,11 @@
 
 # Welcome to [Ankit Rajput]'s GitHub Profile!
 
+- 🔭 I’m currently working on Machine Learning Models
+- 🌱 I’m currently learning Data Science
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I take motivation from Rappers
+
 ## 🌱 Skills
 
 -Skills that I learning in Data Science Journey 
@@ -17,13 +22,6 @@ and many more gaining...
 
 - Email: [Ankit Rajput](rajputankit72106@gmail.com)
 - LinkedIn: ([Ankit Rajput LinkedIn](https://www.linkedin.com/in/ankit-rajput892/))
-<!--
-**ankitrajput77/ankitrajput77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- kaggle: ([Ankit Rajput Kaggle](https://www.kaggle.com/ankitrajput77))
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning Models
-- 🌱 I’m currently learning Data Science
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I take motivation from Rappers
--->
