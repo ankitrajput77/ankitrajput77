@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to [Ankit Rajput]'s GitHub Profile!
+# Welcome to Ankit Rajput's GitHub Profile!
 
 - 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning Data Science
