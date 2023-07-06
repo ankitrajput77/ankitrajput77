@@ -16,8 +16,7 @@
 4. Machine learning Algorithms
 5. Feature engineering
 6. Prob. and Stats
-
-   and many more gaining...
+and many more ...
 
 ## 📫 How to Reach Me
 
