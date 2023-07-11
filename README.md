@@ -20,6 +20,10 @@
 8. Prob. and Stats
 and many more ...
 
+## Education
+Master of Science in Mathematics and Computing (IIT Guwahati).
+Currently following Data Science Masters course impact batch by PWSkills.
+
 ## 📫 How to Reach Me
 
 - Email: rajputankit72106@gmail.com, r.ankit@iitg.ac.in
