@@ -10,7 +10,7 @@
 
 -Skills that I'm learning in Data Science Journey 
 1. SQL, MongoDB
-2. c, c++
+2. C, C++
 3. Python
 4. Data Structure and Algorithm 
 5. Machine learning Algorithms
