@@ -20,8 +20,9 @@
 and many more ...
 
 ## Education
-1. Master of Science in Mathematics and Computing, IIT Guwahati
-2. Data Science Masters course impact batch by PWSkills
+1. Bachelor of Science in Electronic Science, Delhi University Zakir Hussain Delhi Collage
+2. Master of Science in Mathematics and Computing, IIT Guwahati
+3. Data Science Masters course impact batch by PWSkills
 
 ## 📫 How to Reach Me
 
