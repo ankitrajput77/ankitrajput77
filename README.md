@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Deep Learning Models
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I take motivation from Rappers
 
 ## 🌱 Skills
 
