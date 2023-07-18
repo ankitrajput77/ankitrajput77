@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
+</div>
 ### Hi there 👋
 
 # Welcome to Ankit Rajput's GitHub Profile!
