@@ -1,6 +1,16 @@
 <div id="header" align="center">
   <img src="http://24.media.tumblr.com/b9a552bef486726fb1206750e50c643e/tumblr_mq4c74lZ6S1rwai13o1_500.gif" width="100"/>
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ankit-rajput892/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/ankitrajput77">
+    <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 
 # Welcome to Ankit Rajput's GitHub Profile!
