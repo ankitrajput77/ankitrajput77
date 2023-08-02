@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-# Welcome to <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/AnkitRajput/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1> GitHub Profile!
+# Welcome to Ankit Rajput's GitHub Profile!
 
 - 🔭 I’m currently working on Deep Learning Models
 - 🌱 I’m currently learning Data Science
