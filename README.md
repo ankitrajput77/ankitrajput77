@@ -43,3 +43,8 @@ and many more ...
 - LinkedIn: ([Ankit Rajput LinkedIn](https://www.linkedin.com/in/ankit-rajput892/))
 - kaggle: ([Ankit Rajput Kaggle](https://www.kaggle.com/ankitrajput77))
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajput77&show_icons=true&locale=en&layout=compact" alt="ankitrajput77" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrajput77&show_icons=true&locale=en" alt="ankitrajput77" /></p>
