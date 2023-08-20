@@ -48,12 +48,11 @@ and many more ...
   <img src="https://komarev.com/ghpvc/?username=ankitrajput77&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ankitrajput77"/> 
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajput77&show_icons=true&locale=en&layout=compact" alt="ankitrajput77" /></p>
 
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Depani&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajput77&theme=dark&hide_border=true"/>
   </a>
 </p>
 
