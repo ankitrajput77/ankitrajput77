@@ -44,7 +44,10 @@ and many more ...
 - kaggle: ([Ankit Rajput Kaggle](https://www.kaggle.com/ankitrajput77))
 
 
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Krish-Depani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Krish-Depani"/> 
+  <img src="https://img.shields.io/github/stars/Krish-Depani?style=for-the-badge" alt="Krish-Depani"/>
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajput77&show_icons=true&locale=en&layout=compact" alt="ankitrajput77" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitrajput77&show_icons=true&locale=en" alt="ankitrajput77" /></p>
