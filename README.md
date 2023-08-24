@@ -18,6 +18,7 @@
 - 🔭 I’m currently working on Deep Learning Models
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/Him
+- 🤩 fun fact: I love Kissan Jam (Mixed Fruit)
 
 ## 🌱 Skills
 
