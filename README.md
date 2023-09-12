@@ -53,7 +53,7 @@ and many more ...
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajput77&theme=dark&hide_border=true"/>
+    <img align="center" src="https://camo.githubusercontent.com/5a69d5b579317f44657cdb0cc9d66bce8ee1e67459023f3851590c2084c24309/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e6b697472616a7075743737267468656d653d6461726b26686964655f626f726465723d74727565"/>
   </a>
 </p>
 
