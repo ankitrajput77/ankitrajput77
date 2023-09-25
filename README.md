@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-# Welcome to my GitHub Profile!
+# Welcome to My GitHub Profile!
 
 - 🔭 I’m currently working on Deep Learning Models
 - 🌱 I’m currently learning Data Science
