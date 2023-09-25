@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-# Welcome to Ankit Rajput's GitHub Profile!
+# Welcome to my GitHub Profile!
 
 - 🔭 I’m currently working on Deep Learning Models
 - 🌱 I’m currently learning Data Science
