@@ -26,7 +26,7 @@
 1. SQL, MongoDB
 2. C, C++
 3. Python
-4. Data Structure and Algorithm 
+4. Data Structure and Algorithms 
 5. Machine learning Algorithms
 6. Deep Learning
 7. Feature engineering
