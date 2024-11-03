@@ -40,11 +40,6 @@ and many more ...
 
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ankitrajput77&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ankitrajput77"/> 
-
-</p>
-
 
 <p align="center">
   <a>
