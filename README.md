@@ -22,14 +22,13 @@
 ## 🌱 Skills
 
 -Skills that I'm learning in Data Science Journey 
-1. SQL
-2. C, C++
-3. Python
-4. Data Structure and Algorithms 
+1. MYSQL
+2. C, C++, Python
 5. Machine learning Algorithms
 6. Deep Learning
-7. Feature engineering
 8. Prob. and Stats
+9. React-JS
+10. Fast-API, Flask
 and many more ...
 
 ## Education
